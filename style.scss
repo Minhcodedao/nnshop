@@ -240,7 +240,14 @@ img {
     width: 200px;
     height: 30px;
   }
+  &-actions a {
+    text-decoration: none;
+    color: black;
+  }
 }
+
+/* Bổ sung các quy tắc CSS khác dưới đây */
+
 .shop {
   margin-top: 60px;
   margin-bottom: 54px;
@@ -909,3 +916,6 @@ hr {
   color: #b88e2f;
   background: #fff;
 }
+/* CSS cơ bản */
+
+/* Định nghĩa các biến */
